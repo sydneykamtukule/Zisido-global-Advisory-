@@ -1,0 +1,15 @@
+{
+  "name": "zisido-global-advisory",
+  "version": "1.0.0",
+  "description": "Zisido Global Advisory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build script'",
+    "test": "echo 'Test script'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
